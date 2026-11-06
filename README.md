@@ -1,5 +1,4 @@
 # Dungeon Adventure
-
 ## About the Game
 
 Dungeon Adventure is an action-packed dungeon crawler where players explore dangerous dungeons, fight enemies, defeat powerful bosses, and collect valuable loot. Players begin aboard a ship that acts as their main hub. From the ship, they can prepare for dungeon runs, equip weapons, customise their character, purchase supplies, and upgrade their equipment. As players progress, they can discover new areas, find better rewards, and take on increasingly difficult challenges.
@@ -54,3 +53,5 @@ Project-specific setup instructions, controls, and requirements can be added her
 **Status:** In Development
 
 Features and content are still being created, tested, and improved.
+
+PS: The project is somewhat working and my dum ahh took hours trying to animate.
